@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ben Kochman, Craig McCarthy, Vaughn Golden, Katherine Donlevy",
+            "title": "Harvey Weinstein cooling his heels in special Rikers cell after overturned rape conviction - New York Post ",
+            "description": "The fallen movie mogul is cooling his heels in a special cell unit at Rikers’ west facility for inmates with medical issues.",
+            "url": "https://nypost.com/2024/04/26/us-news/harvey-weinstein-in-special-rikers-cell-after-overturned-rape-conviction/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/weinstein-rikers-comp.jpg?quality=75&strip=all&1714161395&w=1024",
+            "publishedAt": "2024-04-27T01:25:00Z",
+            "content": "Sex pest Harvey Weinstein moved back into Rikers Island Friday afternoon, one day after his notorious rape conviction was overturned.\r\nThe fallen movie mogul is cooling his heels in a special cell un… [+3504 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSH FUNK, HEATHER HOLLINGSWORTH, MARGERY A. BECK",
+            "title": "Tornado tears through Nebraska, causing severe damage in Omaha suburbs - The Associated Press",
+            "description": "A tornado has plowed through suburban Omaha, Nebraska, demolishing homes and businesses as it tore for miles along farmland and into subdivisions. Some injuries have been reported but there were no immediate reports that anyone was killed in the Friday storms…",
+            "url": "https://apnews.com/article/tornado-nebraska-midwest-iowa-missouri-kansas-491cd033f91eb27f4139bf5582e57903",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e74d315/2147483647/strip/true/crop/5225x2939+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2Fab%2F072938f8267297a88d693e90ee9e%2F9be05958a2914e5fa9a0daa29dccde57",
+            "publishedAt": "2024-04-27T00:50:00Z",
+            "content": "OMAHA, Neb. (AP) A tornado plowed through suburban Omaha, Nebraska, on Friday, damaging hundreds of homes and other structures as it tore for miles along farmland and into subdivisions. Some injuries… [+5873 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Courtney Cronin",
+            "title": "Caleb Williams - 'No reason to duck' expectations as top NFL draft pick - ESPN",
+            "description": "Williams isn't shying away from the expectations that await him as the No. 1 pick in the NFL draft.",
+            "url": "https://www.espn.com/nfl/story/_/id/40032857/caleb-williams-no-reason-duck-expectations-top-nfl-draft-pick",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0427%2Fr1325088_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-04-27T00:46:00Z",
+            "content": "LAKE FOREST, Ill. -- Caleb Williams has dealt with external pressure and scrutiny for years on his journey to become the No. 1 pick in the NFL draft. The former USC star quarterback was criticized fo… [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "NASA still doesn't understand root cause of Orion heat shield issue - Ars Technica",
+            "description": "“When we stitch it all together, we’ll either have flight rationale or we won’t.\"",
+            "url": "https://arstechnica.com/space/2024/04/nasa-still-doesnt-understand-root-cause-of-orion-heat-shield-issue/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/52557349541_4ff1f090b0_k-760x380.jpg",
+            "publishedAt": "2024-04-27T00:22:09Z",
+            "content": "Enlarge/ NASA's Orion spacecraft descends toward the Pacific Ocean on December 11, 2021, at the end of the Artemis I mission.\r\n28\r\nNASA officials declared the Artemis I mission successful in late 202… [+5150 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Amid bird flu spread, experts reveal if it's safe to drink milk: 'Indirect concern' - Fox News",
+            "description": "Traces of bird flu have been detected in pasteurized milk, leaving many people wondering if it’s safe to drink. Doctors offered their insights about the potential risk.",
+            "url": "https://www.foxnews.com/health/bird-flu-spread-experts-reveal-safe-drink-milk-indirect-concern",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/woman-drinking-milk.jpg",
+            "publishedAt": "2024-04-27T00:16:00Z",
+            "content": "Traces of bird flu\r\n have been detected in pasteurized milk leaving many people wondering if its safe to drink.\r\nThe U.S. Food and Drug Administration (FDA) released a notice on Thursday stating that… [+6326 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Elizabeth Wolfe, Dalia Faheid, Aya Elamroussi, Nouran Salahieh, Samantha Delouya, Aditi Sangal and Tori B. Powell, CNN",
+            "title": "Live updates: Pro-Palestinian protests continue at colleges across the US - CNN",
+            "description": "Pro-Palestinian protests continue at major US universities where several schools have called police on protesters, leading to the arrests of hundreds across the country. Follow for live updates.",
+            "url": "https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240426000842-01a-columbia-university-encampment-042524-super-tease.jpg",
+            "publishedAt": "2024-04-27T00:14:00Z",
+            "content": "The University of Texas at Austin has placed the Palestine Solidarity Committee on \"interim suspension,\" citing the \"alleged violation of institutional rules,\" according to Brian Davis, a spokesman f… [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Channel3000.com - WISC-TV3"
+            },
+            "author": "Kyle Jones",
+            "title": "Dane Co. resident confirmed to have measles spent time in Rock County - Channel3000.com - WISC-TV3",
+            "description": "JANESVILLE, Wis. -- The Dane County resident who health officials confirmed Friday to have a case of measles spent time in Rock County while infectious, Rock County Public Health said.",
+            "url": "https://www.channel3000.com/news/dane-co-resident-confirmed-to-have-measles-spent-time-in-rock-county/article_c8d7b5d2-0428-11ef-ab2c-2bb9c8c75917.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/e/4f/e4fa165c-e644-56f1-b9d2-d5dbad24ac95/66183dddd7b73.image.jpg?crop=1435%2C753%2C0%2C345&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-26T23:57:00Z",
+            "content": "JANESVILLE, Wis. -- The Dane County resident who health officials confirmed Friday to have a case of measles spent time in Rock County while infectious, Rock County Public Health said.\r\nHealth offici… [+548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Falcons first-rounder Michael Penix Jr. says Kirk Cousins reached out to him following shocking selection - CBS Sports",
+            "description": "Things appear to be civil between Atlanta's two quarterbacks",
+            "url": "https://www.cbssports.com/nfl/news/falcons-first-rounder-michael-penix-jr-says-kirk-cousins-reached-out-to-him-following-shocking-selection/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/26/46f870fc-7cde-46b5-a780-bab48b18ae95/thumbnail/1200x675/866bb8be4d9309bc6797324c3a789ccc/michael-penix.jpg",
+            "publishedAt": "2024-04-26T23:09:00Z",
+            "content": "Thursday must have been a bizarre night for Kirk Cousins, the Falcons' $180 million quarterback who watched as his team essentially drafted his future successor before Cousins has taken his first sna… [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cincy Jungle"
+            },
+            "author": "Jason Garrison",
+            "title": "Amarius Mims reacts to Nick Saban's criticism with grace - Cincy Jungle",
+            "description": "This is the kind of statement that shows maturity beyond his years.",
+            "url": "https://www.cincyjungle.com/2024/4/26/24141981/amarius-mims-nick-saban-sec-championship-georgia-football-alabama-bengals",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dOwoGn5xn3GF7t6cJvOnFmgFeMk=/0x502:7008x4171/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25420832/usa_today_23120796.jpg",
+            "publishedAt": "2024-04-26T23:03:56Z",
+            "content": "When the Cincinnati Bengals used the No. 18 overall selection in the 2024 NFL Draft on the Georgia Bulldogs Amarius Mims, former Alabama Crimson Tide head coach Nick Saban talked about the offensive … [+1559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Rob Lenihan",
+            "title": "Analysts revamp Microsoft stock price target after earnings - TheStreet",
+            "description": "Here's what could happen next to Microsoft shares.",
+            "url": "https://www.thestreet.com/technology/analysts-revamp-microsoft-stock-price-target-after-earnings",
+            "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAyNTg2NTM1OTU3MTExODc2/satya-nadella_lead_db_113023.jpg",
+            "publishedAt": "2024-04-26T23:03:00Z",
+            "content": "Microsoft  (MSFT)  has got its head in the clouds, and that's just how the software giant likes it.\r\nThe expression is usually intended to describe someone daydreaming and out of touch with reality, … [+4948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": "Kyle Midura, Ali Schmitz",
+            "title": "Brooks and Capehart on Supreme Court arguments over immunity for Trump - PBS NewsHour",
+            "description": "New York Times columnist David Brooks and Washington Post associate editor Jonathan Capehart join Amna Nawaz to discuss the week in politics, including legal cases involving former Donald Trump and associates playing out in state courts, the Supreme Court and…",
+            "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-supreme-court-arguments-over-immunity-for-trump",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/04/brooksandcapehart-1024x576.jpg",
+            "publishedAt": "2024-04-26T22:35:25Z",
+            "content": "David Brooks:\r\nWell, a lot of commentary on the fact that a lot of the more conservative justices didn't seem interested in Donald Trump, the case right in front of them. They were interested in the … [+1083 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mark Gurman",
+            "title": "Apple’s (AAPL) OpenAI Talks Intensify as It Seeks to Add AI Features - Bloomberg",
+            "description": "Apple Inc. has renewed discussions with OpenAI about using the startup’s technology to power some new features coming to the iPhone later this year, according to people familiar with the matter.",
+            "url": "https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwnwil9JTXl8/v1/1200x800.jpg",
+            "publishedAt": "2024-04-26T22:25:06Z",
+            "content": "Apple Inc. has renewed discussions with OpenAI about using the startups technology to power some new features coming to the iPhone later this year, according to people familiar with the matter. \r\nThe… [+254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Sports Staff",
+            "title": "NFL Draft 2024 Day 2 live updates: Second and third round picks, trades, grades and news from Detroit - Yahoo Sports",
+            "description": "Round 1 is here in Detroit. Stay updated with Yahoo Sports.",
+            "url": "https://sports.yahoo.com/live/2024-nfl-draft-live-updates-picks-trades-grades-and-more-230040123.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9HftltHFThjU_NsKe_3R1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/8026c950-0413-11ef-9cff-b25cd078a37d",
+            "publishedAt": "2024-04-26T22:05:36Z",
+            "content": "The first round of the 2024 NFL Draft is in the books and it was the most offensive-heavy first round in the history of the annual player selection meeting. 23 offensive players highlighted by 14-in-… [+9866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "Southwest Airlines considering changing its open seating policy: CEO - New York Post ",
+            "description": "Southwest’s CEO said that the carrier is considering changing the boarding and seating processes on its planes in order to improve its financial position.",
+            "url": "https://nypost.com/2024/04/26/lifestyle/southwest-airlines-considering-changing-its-open-seating-policy/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/southwest-airlines-flights-taxi-nashville-80570176-e1714163979931.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-04-26T21:53:00Z",
+            "content": "Southwest Airlines CEO Bob Jordan said Thursday that the carrier is considering changing the boarding and seating processes on its planes in order to improve its financial position.\r\n“Were looking in… [+2116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "What do student protesters at US universities want? - BBC.com",
+            "description": "Protest groups on more than 20 campuses are all aiming at the same target - university investments",
+            "url": "https://www.bbc.com/news/world-us-canada-68908885",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/869F/production/_133236443_gettyimages-2150307902.jpg",
+            "publishedAt": "2024-04-26T21:34:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Julie Hyman",
+            "title": "Microsoft is 'the highest quality company one can own': Analyst - Yahoo Finance",
+            "description": "With Wall Street at the center of a busy tech earnings cycle, investors may seek to identify tech stocks worth adding to their portfolios. Washington...",
+            "url": "https://finance.yahoo.com/video/microsoft-highest-quality-company-one-204119703.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LjCyFrZXM0_e2iTpPEoDjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/2108bea0-040a-11ef-9d5d-e88ad1298b16",
+            "publishedAt": "2024-04-26T20:41:19Z",
+            "content": "With Wall Street at the center of a busy tech earnings cycle, investors may seek to identify tech stocks worth adding to their portfolios. Washington Crossing Advisors Senior Portfolio Manager and Co… [+783 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JEFFREY SCHAFFER, JOHN LEICESTER",
+            "title": "Students at prestigious Paris university occupy campus building in pro-Palestinian protest - The Associated Press",
+            "description": "Students in Paris inspired by Gaza solidarity encampments at campuses in the United States have blocked access to a campus building at a prestigious French university, prompting administrators to move all classes online. The pro-Palestinian protest kicked off…",
+            "url": "https://apnews.com/article/france-paris-university-campus-protests-israel-palestinians-gaza-b2743b076ff31a8dbe74478a046c1379",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5b4b098/2147483647/strip/true/crop/3922x2206+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F62%2Faa8a6c008f28bd37067118a4b694%2Ffb34db9782e34355a4956d2f83d6c394",
+            "publishedAt": "2024-04-26T20:17:00Z",
+            "content": "PARIS (AP) Students in Paris inspired by Gaza solidarity encampments at campuses in the United States blocked access to a campus building at a prestigious French university Friday, prompting administ… [+2985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin, Yun Li",
+            "title": "S&P 500 posts best week since November, Nasdaq surges 2% Friday as Alphabet soars: Live updates - CNBC",
+            "description": "Stocks jumped Friday as Big Tech names Alphabet and Microsoft rallied on strong earnings and traders pored through fresh U.S. inflation data.",
+            "url": "https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1708556665&w=1920&h=1080",
+            "publishedAt": "2024-04-26T20:15:00Z",
+            "content": "Stocks jumped Friday, and the S&amp;P 500 and Nasdaq Composite notched their best week since November as Big Tech names rallied on strong earnings and traders pored through fresh U.S. inflation data.… [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Sean Piccoli",
+            "title": "Donald Trump’s Longtime Assistant Rhona Graff Testifies About Seeing Stormy Daniels At Office, Assuming It Was For “Celebrity Apprentice” — Update - Deadline",
+            "description": "David Pecker was on the witness stand for the fourth day in the Trump hush money trial.",
+            "url": "http://deadline.com/2024/04/trump-hush-money-trial-national-enquirer-1235896525/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/GettyImages-2149733252.jpg?w=1024",
+            "publishedAt": "2024-04-26T20:07:00Z",
+            "content": "UPDATED: After David Pecker finished his fourth day of testimony, the next prosecution witness in Donald Trump‘s hush money trial Friday was Rhona Graff, Trump’s longtime assistant. \r\nGraff was a Tru… [+5427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell, Tariq Malik",
+            "title": "Boeing Starliner 1st astronaut flight: Live updates - Space.com",
+            "description": "Boeing will launch its first-ever Starliner astronaut mission for NASA as early as May 6, 2024",
+            "url": "https://www.space.com/news/live/boeing-starliner-live-updates",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NjbYZHD5MvN9kVBEmMnRYc-1200-80.jpg",
+            "publishedAt": "2024-04-26T19:42:30Z",
+            "content": "2024-04-26T19:42:30.435Z1st Starliner astronauts finish dress rehearsal before May 6 launch\r\nNASA astronauts Butch Wilmore and Suni Williams finished a big dress rehearsal before their historic launc… [+2148 chars]"
+        }
+    ]
+}

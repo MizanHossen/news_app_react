@@ -72,3 +72,32 @@ button:focus-visible {
   background-color: red;
   padding: 100px top;
 }
+
+.container_row {
+  justify-content: center;
+  padding-left: 0px;
+
+}
+
+.navbar-nav .nav-link.active {
+  color: #ff0000;
+  /* Change this to your desired color */
+}
+
+.card-title {
+  max-lines: 2;
+
+  text-decoration-color: #ff0000;
+}
+
+.btn_button {
+  justify-content: end;
+}
+
+.spinner_loader_container {
+  justify-content: center;
+}
+
+.container_button {
+  margin-bottom: 20px;
+}
