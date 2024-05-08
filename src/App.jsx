@@ -22,7 +22,7 @@ const App = () => {
   //   }
   return (
 
-    <Router>
+    <Router basename='/news_app_react'>
       <NavBar />
       <LoadingBar
         color='#f11946'
